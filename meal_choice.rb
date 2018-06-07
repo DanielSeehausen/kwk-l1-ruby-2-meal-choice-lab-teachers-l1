@@ -13,7 +13,7 @@ def lunch(x="grilled cheese")
   
 end
 
-def dinner
+def dinner(x="salmon")
   
 end
 
