@@ -10,11 +10,11 @@ def breakfast(x="frosted flake")
 end
 
 def lunch(x="grilled cheese")
-  "Afternoon "
+  "Afternoon is the best time for #{ "
 end
 
 def dinner(x="salmon")
-  "Evening"
+  "Evening is the best time for #{"
 end
 
 
