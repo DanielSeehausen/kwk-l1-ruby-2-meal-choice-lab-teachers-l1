@@ -10,11 +10,11 @@ def breakfast(x="frosted flake")
 end
 
 def lunch(x="grilled cheese")
-  
+  "Afternoon "
 end
 
 def dinner(x="salmon")
-  
+  "Evening"
 end
 
 
