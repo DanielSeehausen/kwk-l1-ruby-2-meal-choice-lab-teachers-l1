@@ -14,7 +14,7 @@ def lunch(x="grilled cheese")
 end
 
 def dinner(x="salmon")
-  "Evening is the best time for #{" ""
+  "Evening is the best time for #{}" 
 end
 
 
