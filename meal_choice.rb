@@ -9,7 +9,7 @@ def breakfast(x="frosted flake")
   
 end
 
-def lunch
+def lunch(x="grilled cheese")
   
 end
 
